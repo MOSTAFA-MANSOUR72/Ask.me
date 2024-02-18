@@ -7,12 +7,12 @@ A Console ask.me simple project
   -  Print Questions he has been asked
   -  Print Questions he asked
   -  Answer Question
-  -  Delete Question he has or he asked
+  -  Delete Question he has or has been asked
   -  Ask Question
   -  List System Users
   -  Feed : print all questions in the system
   -  Logout
-- data in the project (questions - users - passwords ) are all stored in files and indexed with the same pattern in files
+- data in the project (questions - users - passwords ) are all stored in files and indexed with the same pattern in passes and users files so evey index has a name and its pass in the same index of the another file.
   - the process of loading and uploading data in done by two functions (copy_files -  Upload_files();)
 
 ## User interface:
